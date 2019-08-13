@@ -12,6 +12,7 @@ Java-related
 Python-related
 ---------------
 * PyPy
+* [byterun](https://github.com/nedbat/byterun)
 
 Perl-related
 ------------
