@@ -13,6 +13,7 @@ Python-related
 ---------------
 * PyPy
 * [byterun](https://github.com/nedbat/byterun)
+  * http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 
 Perl-related
 ------------
