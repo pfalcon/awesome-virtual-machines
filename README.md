@@ -30,3 +30,4 @@ General
 * WebAssembly
 * LLVM
 * https://code.google.com/archive/p/gvmt/
+* [zetavm](https://github.com/zetavm/zetavm) - "Multi-Language Platform for Dynamic Programming Languages"
