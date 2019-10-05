@@ -7,6 +7,7 @@ Java-related
 * Joeq
 * https://github.com/JikesRVM/JikesRVM
 * [SableVM](www.sablevm.org)
+* Maxine VM: [wikipedia](https://en.wikipedia.org/wiki/Maxine_Virtual_Machine), [github](https://github.com/beehive-lab/Maxine-VM)
 * GraalVM
 
 Python-related
