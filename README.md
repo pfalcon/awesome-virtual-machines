@@ -21,6 +21,10 @@ Perl-related
 * https://github.com/parrot/parrot
 * https://github.com/MoarVM/MoarVM
 
+Smalltalk-related
+-----------------
+* [SOM](https://som-st.github.io/) - Implementations in many languages
+
 General
 -------
 
