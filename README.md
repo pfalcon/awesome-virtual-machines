@@ -37,3 +37,4 @@ General
 * https://code.google.com/archive/p/gvmt/
 * [zetavm](https://github.com/zetavm/zetavm) - "Multi-Language Platform for Dynamic Programming Languages"
 * [Mu Micro Virtual Machine](http://microvm.github.io/)
+* [VMKit](https://vmkit.llvm.org/) - Based on LLVM 3.3
